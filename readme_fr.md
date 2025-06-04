@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Licence-MIT-green" alt="Licence">
   <img src="https://img.shields.io/badge/Contributions-Bienvenues-brightgreen" alt="Contributions">
   <br>
-   <a href="https://github.com/SylverbladeX/ValoriumX/blob/readme.md">Read this document in English</a>
+   <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme.md">Read this document in English</a>
 </p>
 
 ---
