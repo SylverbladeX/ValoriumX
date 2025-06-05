@@ -16,7 +16,7 @@ Valorium X est une initiative open source visant à **redéfinir la technologie 
 <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
 <br>
-<a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme_fr.md">Lire ce document en anglais</a>
+<a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme.md">Read this document in English</a>
 </p>
 
 ---
@@ -24,7 +24,7 @@ Valorium X est une initiative open source visant à **redéfinir la technologie 
 ## Table des matières
 
 1. [À propos de Valorium X](#🔬-about-valorium-x)
-2. [La vision : la naissance d'un [Étoile](#🌟-la-vision-la-naissance-d-une-étoile)
+2. [La vision : la naissance d'une Étoile](#🌟-la-vision-la-naissance-d-une-étoile)
 3. [État actuel du projet 🚀](#état-actuel-du-projet-🚀)
 4. [📖 Documents clés](#📖-documents-clés)
 5. [🛠️ Architecture principale](#🛠️-architecture-principale)
