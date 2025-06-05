@@ -1,0 +1,40 @@
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers système Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Fichiers d'éditeur de code
+.vscode/
+.idea/
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de log et temporaires
+*.log
+logs/
+tmp/
+temp/
+
+# Fichiers de build et de dépendances (exemples, à adapter si vous utilisez ces outils plus tard)
+# node_modules/
+# .env
+# dist/
+# build/
+# target/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Autres fichiers spécifiques à votre environnement que vous ne voulez pas commiter
