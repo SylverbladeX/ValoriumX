@@ -12,9 +12,9 @@ Valorium X est une initiative open source visant à **redéfinir la technologie 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="État du projet">
+<img src="https://img.shields.io/badge/Status-En%20Dévelopment-blue" alt="État du projet">
 <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
+<img src="https://img.shields.io/badge/Contributions-Bienvenue-brightgreen" alt="Contributions">
 <br>
 <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme.md">Read this document in English</a>
 </p>
