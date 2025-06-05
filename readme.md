@@ -68,12 +68,12 @@ The project is currently in its initial phase of research, conceptual developmen
 To understand the depth of Valorium X, we invite you to read our **Whitepaper**. It is the foundational document that details our vision, architecture, and roadmap.
 
 - 📖 [Read the Whitepaper in English](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)
-- 📖 [Lire le Livre Blanc en Français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_fr.md)
+- 📖 [Lire le Livre Blanc en Français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)
 
 **International Executive Summaries**:
-- 🇨🇳 [Read the Executive Summary in Chinese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ZH.md)
-- 🇯🇵 [Read the Executive Summary in Japanese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_JP.md)
-- 🇪🇸 [Read the Executive Summary in Spanish](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ES.md)
+- 🇨🇳 [Read the Executive Summary in Chinese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ch.md)
+- 🇯🇵 [Read the Executive Summary in Japanese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_Ja.md)
+- 🇪🇸 [Read the Executive Summary in Spanish](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_es.md)
 
 ---
 ## 🛠️ Core Architecture
