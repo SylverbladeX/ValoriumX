@@ -1,93 +1,112 @@
 <p align="center">
-<img src="assets/vlrx-logo.png" alt="Logo de Valorium X" width="150"/>
+  <img src="assets/vlrx-logo.png" alt="Logo de Valorium X" width="150"/>
 </p>
 
 <h1 align="center">Valorium X (VLRX)</h1>
 
 <p align="center">
-<strong>La blockchain bio-inspirée à autonomie progressive.</strong>
-<br />
-<em>La naissance d'une nouvelle ère de confiance numérique.</em> <br><br>
-Valorium X est une initiative open source visant à **redéfinir la technologie blockchain** en s'inspirant de la biologie et de la physique quantique. Notre mission est de créer un **écosystème décentralisé, intrinsèquement sécurisé et progressivement autonome**.
+  <strong>The Bio-Inspired Blockchain with Progressive Autonomy.</strong>
+  <br />
+  <em>The birth of a new era of digital trust.</em> <br><br>
+Valorium X is an open-source initiative aimed at **redefining blockchain technology** by drawing inspiration from biology and quantum physics. Our mission is to create a **decentralized, inherently secure, and progressively autonomous ecosystem**.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="État du projet">
-<img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
-<br>
-<a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme_fr.md">Lire ce document en anglais</a>
+  <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="Project Status">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
+  <br>
+   <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme_fr.md">Lire ce document en Français</a>
 </p>
 
 ---
 
-## Table des matières
+## Table of Contents
 
-1. [À propos de Valorium X](#🔬-about-valorium-x)
-2. [La vision : la naissance d'un [Étoile](#🌟-la-vision-la-naissance-d-une-étoile)
-3. [État actuel du projet 🚀](#état-actuel-du-projet-🚀)
-4. [📖 Documents clés](#📖-documents-clés)
-5. [🛠️ Architecture principale](#🛠️-architecture-principale)
-6. [📅 Feuille de route](#📅-feuille-de-route)
-7. [🤝 Comment contribuer](#🤝-comment-contribuer)
-8. [🌍 Rejoindre la communauté](#🌍-rejoindre-la-communauté)
-9. [🔐 Licence](#🔐-licence)
+1.  [About Valorium X](#🔬-about-valorium-x)
+2.  [The Vision: The Birth of a Star](#🌟-the-vision-the-birth-of-a-star)
+3.  [Current Project Status 🚀](#current-project-status-🚀)
+4.  [📖 Key Documents](#📖-key-documents)
+5.  [🛠️ Core Architecture](#🛠️-core-architecture)
+6.  [📅 Roadmap](#📅-roadmap)
+7.  [🤝 How to Contribute](#🤝-how-to-contribute)
+8.  [🌍 Join the Community](#🌍-join-the-community)
+9.  [🔐 License](#🔐-license)
 
----
+    ---
 
-## 🔬 À propos de Valorium X
+## 🔬 About Valorium X
 
-**Valorium X** n'est pas seulement une amélioration des technologies existantes : c'est une **technologie fondamentale Réinvention** de la blockchain. Inspirée par la **résilience de l'ADN** et les **principes quantiques**, cette approche vise à garantir une **sécurité absolue et une autonomie progressive**.
-Notre mission est de créer un écosystème décentralisé intrinsèquement sécurisé, économiquement stable et capable d'évoluer de manière autonome pour relever les défis de l'ère quantique et de l'intelligence artificielle.
+**Valorium X** is not just an enhancement of existing technologies—it is a **fundamental reimagining** of blockchain. Inspired by the **resilience of DNA** and **quantum principles**, this approach aims to ensure **absolute security and progressive autonomy**.
+Our mission is to create a decentralized ecosystem that is intrinsically secure, economically stable, and capable of evolving autonomously to meet the challenges of the quantum age and artificial intelligence.
 
-## 🌟 La vision : La naissance d'une étoile
+## 🌟 The Vision: The Birth of a Star
 
-Nous ne construisons pas simplement une nouvelle technologie ; nous inaugurons un nouveau paradigme. Là où d'autres voient des limites, nous voyons des lois fondamentales à exploiter.
+We are not just building another technology; we are initiating a new paradigm. Where others see limitations, we see fundamental laws to be harnessed.
 
-* **Bio-Inspiration (ADN) :** Nous utilisons une architecture à double hélice et un codage quadrit pour une résilience et une densité d'information sans précédent.
-* **Sécurité absolue (CIP) :** Notre **Preuve cryptographique interverrouillable** n'est pas une simple chaîne ; c'est une « soudure numérique » qui rend la falsification de l'historique exponentiellement plus difficile.
-* **Autonomie Progressive (IA)** :** la deuxième hélice du système agit comme un « conseiller algorithmique » qui guide l'évolution du protocole vers une plus grande efficacité, sous la supervision d'une gouvernance décentralisée.
+* **Bio-Inspiration (DNA):** We use a double helix architecture and quadrit-based encoding for unprecedented resilience and information density.
+* **Absolute Security (CIP):** Our **Cryptographic Interlocking Proof** is not a simple chain; it's a "digital weld" that makes tampering with history exponentially more difficult.
+* **Progressive Autonomy (AI):** The system's second helix acts as an "Algorithmic Advisor" that guides the protocol's evolution towards greater efficiency, under the supervision of decentralized governance.
 
-L'impact que nous visons n'est pas celui d'une explosion, mais celui de la **naissance d'une étoile** : une force créatrice durable qui génère sa propre gravité et devient le centre d'un nouvel écosystème d'applications (dApps).
-
----
-
-## 🚀 État actuel du projet
-
-**Phase 1 : Fondation et prototypage**
-
-Le projet est actuellement dans sa phase initiale de recherche, de développement conceptuel et de prototypage. La communauté est invitée à revoir nos concepts fondamentaux, à débattre des approches techniques et à contribuer à la construction des premières simulations.
-- Examiner nos concepts clés.
-- Débattre des approches techniques.
-- Contribuer aux premières simulations.
+The impact we are aiming for is not that of an explosion, but that of the **birth of a star**: a sustainable creative force that generates its own gravity and becomes the center of a new ecosystem of applications (dApps).
 
 ---
 
-## 📖 Documents clés
+## 🚀 Current Project Status
 
-Pour comprendre toute la profondeur de Valorium X, nous vous invitons à lire notre **Livre blanc**. Il s'agit du document fondateur qui détaille notre vision, notre architecture et notre feuille de route.
+**Phase 1: Foundation and Prototyping**
 
-- 📖 [Lire le Livre Blanc en anglais](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)
-- 📖 [Lire le Livre Blanc en français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)
-
-**Synthèses internationales** :
-- 🇨🇳 [Lire la synthèse en chinois](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ch.md)
-- 🇯🇵 [Lire la synthèse en japonais](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_Ja.md)
-- 🇪🇸 [Lire la synthèse en [Espagnol](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)
+The project is currently in its initial phase of research, conceptual development, and prototyping. The community is invited to review our fundamental concepts, debate technical approaches, and contribute to building the first simulations.
+- Review our core concepts.
+- Debate technical approaches.
+- Contribute to early simulations.
 
 ---
-## 🛠️ Architecture de base
 
-* **Système Quadrit** : Encodage de l'information basé sur 4 bases (A, T, C, G) au lieu de 2.
-* **Double hélice** : Une hélice pour le registre des transactions, une pour l'analyse et la gouvernance.
-* **Preuve cryptographique interverrouillée (CIP)** : Un mécanisme de consensus qui « soude » les blocs pour une sécurité globale.
-* **Nœuds neuronaux** : Un réseau décentralisé de fournisseurs de puissance de calcul qui alimente la deuxième hélice.
+## 📖 Key Documents
 
-## 📅 Feuille de route
+To understand the depth of Valorium X, we invite you to read our **Whitepaper**. It is the foundational document that details our vision, architecture, and roadmap.
 
-1. **Phase 1 (Années 1-2)** : Fondation, Prototypage, Simulations, Lancement du réseau de test. 2. **Phase 2 (Années 3-4) :** Lancement du Mainnet v1, Implémentation du DAO, Implémentation du CIP.
-3. **Phase 3 (Année 5 et plus) :** Maturité, Délégation d'autonomie, R&D quantique.
+- 📖 [Read the Whitepaper in English](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)
+- 📖 [Lire le Livre Blanc en Français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)
 
-## 🤝 Comment contribuer
-Valorium X est un **projet open source** et prospère grâce à la collaboration. Vous pouvez contribuer :
-- **En consultant notre documentation et notre site web
+**International Executive Summaries**:
+- 🇨🇳 [Read the Executive Summary in Chinese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ch.md)
+- 🇯🇵 [Read the Executive Summary in Japanese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_Ja.md)
+- 🇪🇸 [Read the Executive Summary in Spanish](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)
+
+---
+## 🛠️ Core Architecture
+
+* **Quadrit System:** Information encoding based on 4 bases (A,T,C,G) instead of 2.
+* **Double Helix:** One helix for the transaction ledger, one for analysis and governance.
+* **Cryptographic Interlocking Proof (CIP):** A consensus mechanism that "welds" blocks together for holistic security.
+* **Neural Nodes:** A decentralized network of computational power providers that fuels the second helix.
+
+## 📅 Roadmap
+
+1.  **Phase 1 (Years 1-2):** Foundation, Prototyping, Simulations, Testnet Launch.
+2.  **Phase 2 (Years 3-4):** Mainnet v1 Launch, DAO Implementation, CIP Implementation.
+3.  **Phase 3 (Year 5+):** Maturity, Autonomy Delegation, Quantum R&D.
+
+
+## 🤝 How to Contribute
+Valorium X is an **open-source project** and thrives on collaboration. You can contribute by:
+- **Reading our documentation and whitepaper** to get familiar with our work.
+- **Opening an issue** in this repository to ask questions, suggest improvements, or debate a concept.
+- **Sharing the project** with others who support a resilient and decentralized future.
+
+---
+
+## 🌍 Join the Community
+- 🐦 [Twitter](https://twitter.com/ValoriumX)
+- 📺 [YouTube](https://youtube.com/ValoriumX)
+- 💬 Discord (Coming Soon)
+- 🌐 Official Website (Coming Soon)
+
+---
+
+## 🔐 License
+Valorium X is licensed under **MIT**, ensuring maximum transparency and accessibility. See the `LICENSE` file for more details.
+
+---
