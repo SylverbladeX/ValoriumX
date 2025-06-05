@@ -16,7 +16,7 @@ Valorium X is an open-source initiative aimed at **redefining blockchain technol
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
   <br>
-   <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_fr.md">Lire ce document en Français</a>
+   <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme_fr.md">Lire ce document en Français</a>
 </p>
 
 ---
@@ -71,9 +71,9 @@ To understand the depth of Valorium X, we invite you to read our **Whitepaper**.
 - 📖 [Lire le Livre Blanc en Français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_fr.md)
 
 **International Executive Summaries**:
-- 🇨🇳 [Read the Executive Summary in Chinese]((https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ZH.md)
-- 🇯🇵 [Read the Executive Summary in Japanese]((https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_JP.md)
-- 🇪🇸 [Read the Executive Summary in Spanish]((https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ES.md)
+- 🇨🇳 [Read the Executive Summary in Chinese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ZH.md)
+- 🇯🇵 [Read the Executive Summary in Japanese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_JP.md)
+- 🇪🇸 [Read the Executive Summary in Spanish](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ES.md)
 
 ---
 ## 🛠️ Core Architecture
