@@ -94,5 +94,3 @@ Valorium X est un **projet open-source** qui s'appuie sur la collaboration. Vous
 Valorium X est sous licence **MIT**, garantissant une transparence et une accessibilité maximales. Consultez le fichier `LICENSE` pour plus de détails.
 
 ---
-
-Voilà, ton **README.md** est maintenant entièrement traduit en français tout en respectant la structure d'origine ! 🚀😃 Dis-moi si tu veux encore des ajustements !
