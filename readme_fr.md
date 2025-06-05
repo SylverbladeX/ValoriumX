@@ -104,4 +104,7 @@ Valorium X est un **projet open source** et prospère grâce à la collaboration
 ---
 
 ## 🔐 Licence
+
 Valorium X est sous licence **MIT**, garantissant une transparence et une accessibilité maximales. Consultez le fichier « LICENSE » pour plus de détails.
+
+Valorium X: The official GitHub description.
