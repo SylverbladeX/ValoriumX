@@ -73,7 +73,7 @@ To understand the depth of Valorium X, we invite you to read our **Whitepaper**.
 **International Executive Summaries**:
 - 🇨🇳 [Read the Executive Summary in Chinese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ch.md)
 - 🇯🇵 [Read the Executive Summary in Japanese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_Ja.md)
-- 🇪🇸 [Read the Executive Summary in Spanish](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_es.md)
+- 🇪🇸 [Read the Executive Summary in Spanish](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)
 
 ---
 ## 🛠️ Core Architecture
