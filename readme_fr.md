@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/SylverbladeX/ValoriumX/blob/main/assets/vlrx-logo.png" alt="Logo de Valorium X" width="150"/>
+  <img src="https://github.com/SylverbladeX/ValoriumX/blob/main/assets/vlrx-logo-min.png" alt="Valorium X Logo" width="150"/> alt="Valorium X Logo " width="150"/>
 </p>
 
 <h1 align="center">Valorium X (VLRX)</h1>
@@ -71,8 +71,8 @@ Pour comprendre toute la profondeur de Valorium X, nous vous invitons à lire no
 - 📖 [Lire le Livre Blanc en français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)
 
 **Synthèses internationales** :
-- 🇨🇳 [Lire la synthèse en chinois](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ch.md)
-- 🇯🇵 [Lire la synthèse en japonais](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_Ja.md)
+- 🇨🇳 [Lire la synthèse en chinois](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-ch.md)
+- 🇯🇵 [Lire la synthèse en japonais](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-Ja.md)
 - 🇪🇸 [Lire la synthèse en [Espagnol](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)
 
 ---
@@ -115,5 +115,6 @@ Valorium X est un **projet open source** et prospère grâce à la collaboration
 ## 🔐 Licence
 
 Ce projet est distribué sous la licence MIT. Voir le fichier LICENSE pour plus de détails.
+[Voir LICENSE](https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE) 
 
 Valorium X: The official GitHub description.

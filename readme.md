@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SylverbladeX/ValoriumX/blob/main/assets/vlrx-logo.png" alt="Logo de Valorium X" width="150"/>
+  <img src="https://github.com/SylverbladeX/ValoriumX/blob/main/assets/vlrx-logo-min.png" alt="Logo de Valorium X" width="150"/>
 </p>
 
 <h1 align="center">Valorium X (VLRX)</h1>
@@ -71,9 +71,9 @@ To understand the depth of Valorium X, we invite you to read our **Whitepaper**.
 - 📖 [Read the Whitepaper in English](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)
 - 📖 [Lire le Livre Blanc en Français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)
 
-**International Executive Summaries**:
-- 🇨🇳 [Read the Executive Summary in Chinese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_ch.md)
-- 🇯🇵 [Read the Executive Summary in Japanese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper_Ja.md)
+**International Executive Summaries**:       
+- 🇨🇳 [Read the Executive Summary in Chinese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-ch.md)
+- 🇯🇵 [Read the Executive Summary in Japanese](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-Ja.md)
 - 🇪🇸 [Read the Executive Summary in Spanish](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)
 
 ---
