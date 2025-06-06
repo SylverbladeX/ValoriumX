@@ -91,6 +91,11 @@ To understand the depth of Valorium X, we invite you to read our **Whitepaper**.
 
 
 ## 🤝 How to Contribute
+All contributions and interactions within the Valorium X community are expected to adhere to our Code of Conduct. Please read our Contribution Guidelines before getting started.
+
+The most valuable contributions at this stage are intellectual:
+
+Read our Whitepaper (English) and analyze our fundamental concepts.
 Valorium X is an **open-source project** and thrives on collaboration. You can contribute by:
 - **Reading our documentation and whitepaper** to get familiar with our work.
 - **Opening an issue** in this repository to ask questions, suggest improvements, or debate a concept.
@@ -107,6 +112,7 @@ Valorium X is an **open-source project** and thrives on collaboration. You can c
 ---
 
 ## 🔐 License
+
 Valorium X is licensed under **MIT**, ensuring maximum transparency and accessibility. See the `LICENSE` file for more details.
 
 Valorium X: The official GitHub description.

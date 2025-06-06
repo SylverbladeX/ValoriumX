@@ -89,6 +89,15 @@ Pour comprendre toute la profondeur de Valorium X, nous vous invitons à lire no
 3. **Phase 3 (Année 5 et plus) :** Maturité, Délégation d'autonomie, R&D quantique.
 
 ## 🤝 Comment contribuer
+
+Valorium X est actuellement en Phase 1 (Fondation). Nous sommes un projet open-source et nous croyons que les meilleures idées sont forgées par la collaboration.
+
+Toutes les contributions et interactions au sein de la communauté Valorium X sont attendues de respecter notre Code de Conduite. Veuillez lire notre Guide de Contribution avant de commencer.
+
+Les contributions les plus précieuses à ce stade sont d'ordre intellectuel :
+
+Lisez notre Livre Blanc (Français) et analysez nos concepts fondamentaux.
+
 Valorium X est un **projet open source** et prospère grâce à la collaboration. Vous pouvez contribuer :
 - **En consultant notre documentation et notre livre blanc** pour vous familiariser avec notre travail ;
 - **En ouvrant un ticket** dans ce dépôt pour poser des questions, suggérer des améliorations ou débattre d'un concept ;
@@ -105,6 +114,6 @@ Valorium X est un **projet open source** et prospère grâce à la collaboration
 
 ## 🔐 Licence
 
-Valorium X est sous licence **MIT**, garantissant une transparence et une accessibilité maximales. Consultez le fichier « LICENSE » pour plus de détails.
+Ce projet est distribué sous la licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 Valorium X: The official GitHub description.
