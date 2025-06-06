@@ -1,7 +1,6 @@
 <p align="center">
  ![Valorium X Logo](https://github.com/SylverbladeX/ValoriumX/blob/main/assets/vlrx-logo-min.png)
- alt="Valorium X Logo" width="250"/>
-</p>
+
 
 <h1 align="center">Valorium X (VLRX)</h1>
 
