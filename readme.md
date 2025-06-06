@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vlrx-logo.png" alt="Logo de Valorium X" width="150"/>
+  <img src="https://github.com/SylverbladeX/ValoriumX/blob/main/assets/vlrx-logo.png" alt="Logo de Valorium X" width="150"/>
 </p>
 
 <h1 align="center">Valorium X (VLRX)</h1>
@@ -57,13 +57,14 @@ The impact we are aiming for is not that of an explosion, but that of the **birt
 **Phase 1: Foundation and Prototyping**
 
 The project is currently in its initial phase of research, conceptual development, and prototyping. The community is invited to review our fundamental concepts, debate technical approaches, and contribute to building the first simulations.
-- Review our core concepts.
-- Debate technical approaches.
-- Contribute to early simulations.
+✔ Review our core concepts.
+✔ Debate technical approaches.
+✔ Contribute to early simulations.
 
 ---
+  
 
-## 📖 Key Documents
+## 📚 Key Documents  
 
 To understand the depth of Valorium X, we invite you to read our **Whitepaper**. It is the foundational document that details our vision, architecture, and roadmap.
 
@@ -76,30 +77,32 @@ To understand the depth of Valorium X, we invite you to read our **Whitepaper**.
 - 🇪🇸 [Read the Executive Summary in Spanish](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)
 
 ---
-## 🛠️ Core Architecture
+## 🔩 Core Architecture
 
-* **Quadrit System:** Information encoding based on 4 bases (A,T,C,G) instead of 2.
-* **Double Helix:** One helix for the transaction ledger, one for analysis and governance.
-* **Cryptographic Interlocking Proof (CIP):** A consensus mechanism that "welds" blocks together for holistic security.
-* **Neural Nodes:** A decentralized network of computational power providers that fuels the second helix.
+✅ **Quadrit System** – Data encoding inspired by DNA  
+✅ **Double Helix** – Transaction ledger + AI advisory  
+✅ **Cryptographic Interlocking Proof (CIP)** – Tamper-resistant history  
+✅ **Neural Nodes** – Decentralized computational network 
 
-## 📅 Roadmap
-
-1.  **Phase 1 (Years 1-2):** Foundation, Prototyping, Simulations, Testnet Launch.
-2.  **Phase 2 (Years 3-4):** Mainnet v1 Launch, DAO Implementation, CIP Implementation.
-3.  **Phase 3 (Year 5+):** Maturity, Autonomy Delegation, Quantum R&D.
+## 🛠 Roadmap 
+ 
+🔹 **Phase 1**: Foundation, prototyping, simulations, testnet launch  
+🔹 **Phase 2**: Mainnet v1, DAO implementation, CIP integration  
+🔹 **Phase 3**: Maturity, delegated autonomy, quantum R&D 
 
 
 ## 🤝 How to Contribute
 All contributions and interactions within the Valorium X community are expected to adhere to our Code of Conduct. Please read our Contribution Guidelines before getting started.
 
-The most valuable contributions at this stage are intellectual:
-
-Read our Whitepaper (English) and analyze our fundamental concepts.
+The most valuable contributions at this stage are intellectual.
 Valorium X is an **open-source project** and thrives on collaboration. You can contribute by:
-- **Reading our documentation and whitepaper** to get familiar with our work.
-- **Opening an issue** in this repository to ask questions, suggest improvements, or debate a concept.
-- **Sharing the project** with others who support a resilient and decentralized future.
+
+✔Read our Whitepaper (English) and analyze our fundamental concepts.
+
+  
+✔ Reading the [Contribution Guidelines](https://github.com/SylverbladeX/ValoriumX/blob/main/CONTRIBUTING.md)  
+✔ Opening an [issue on GitHub](https://github.com/SylverbladeX/ValoriumX/issues)  
+✔ Sharing the project  
 
 ---
 
@@ -111,8 +114,8 @@ Valorium X is an **open-source project** and thrives on collaboration. You can c
 
 ---
 
-## 🔐 License
 
-Valorium X is licensed under **MIT**, ensuring maximum transparency and accessibility. See the `LICENSE` file for more details.
+## 🔏 License  
 
-Valorium X: The official GitHub description.
+Valorium X is licensed under **MIT** for maximum transparency and accessibility.  
+[View LICENSE](https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE) 
