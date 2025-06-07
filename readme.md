@@ -119,3 +119,35 @@ Valorium X is an **open-source project** and thrives on collaboration. You can c
 
 Valorium X is licensed under **MIT** for maximum transparency and accessibility.  
 [View LICENSE](https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE) 
+
+## ⏳ Proof of Authorship
+
+This repository and all its intellectual property are the original work of **SylverBlade** (`sylverblade.crypto@proton.me`).
+
+- **Repository initialized**: May 28, 2025  
+- **Initial Commit SHA**: [`cd9685a`](https://github.com/SylverbladeX/ValoriumX/commit/cd9685a8e3866763ad1e9e36d442155e7d55abaa)
+- **GitHub**: [github.com/SylverbladeX/ValoriumX](https://github.com/SylverbladeX/ValoriumX)
+
+> ⚠️ **Disclaimer**: ValoriumX is an original creation and **not affiliated with or derived from any prior cryptocurrency project**, including the inactive token known as "Valorium (VLM)".
+
+<!--
+Timestamp (ISO 8601): 2025-05-28T23:31:32-04:00
+Commit SHA: cd9685a8e3866763ad1e9e36d442155e7d55abaa
+-->
+
+---
+
+## 🔧 Technologies & Architecture
+
+- Type: **Quantum-Resistant, Hybrid Blockchain**
+- Consensus: **AI-Driven + Bio-inspired Redundancy Model**
+- Encryption Model: **Multi-layered DNA Sequencer Key Structure**
+- Smart Contracts: Future Compatibility Layer (FCL) planned
+
+---
+
+## 📩 Contact
+
+> For collaboration, research inquiries, or partnership:
+> `sylverblade.crypto@proton.me`
+
