@@ -149,7 +149,13 @@ Commit SHA: cd9685a8e3866763ad1e9e36d442155e7d55abaa
 
 > For collaboration, research inquiries, or partnership:
 > `sylverblade.crypto@proton.me`
+
+
+© 2025 SylverBlade (sylverblade.crypto@proton.me). All rights reserved.
+
+Unauthorized reproduction or redistribution of any part of this project is prohibited.  
+For collaboration or licensing inquiries, contact the author.
+
 =======
 Update README with Proof of Authorship and Quantum-Ready positioning
 >>>>>>> 7f5091b59bd96ee5f6b159b967eb2b76f8d2c045
-

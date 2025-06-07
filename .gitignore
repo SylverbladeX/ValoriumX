@@ -1,3 +1,17 @@
+# Node / JS / Python dev tools
+node_modules/
+.env
+.DS_Store
+*.log
+*.pyc
+__pycache__/
+
+# OS & editor junk
+*.swp
+.idea/
+.vscode/
+Thumbs.db
+
 # Fichiers système macOS
 .DS_Store
 .AppleDouble
