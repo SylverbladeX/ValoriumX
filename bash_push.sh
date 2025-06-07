@@ -1,24 +1,32 @@
 #!/bin/bash
 
-# Script: bash_push.sh
-# Purpose: Automatically push latest README.md and other staged changes to GitHub with a standard commit message
+# Script: bash_push_improved.sh
+# Purpose: Automatically stage all changes, ask for a commit message, pull, and push updates to GitHub.
 # Usage: Run from root folder of your repo
 
 clear
-echo "📦 Preparing to push your updates to GitHub..."
+echo "📦 Preparing to sync your project with GitHub..."
 
-# Step 1: Add all changes (customize to only README.md if needed)
-git add README.md
+# Étape 1 : Ajoute TOUS les changements en cours (fichiers modifiés et nouveaux)
+echo "➕ Staging all changes..."
+git add .
 
-# Step 2: Commit with a clean, standard message
-echo "📝 Committing changes..."
-git commit -m "Push clean and final version of README.md with structure and emoji"
+# Étape 2 : Demande un message de commit personnalisé
+echo "📝 Please enter your commit message:"
+read -p "> " COMMIT_MESSAGE
 
-# Step 3: Push to remote origin (main branch)
+# Étape 3 : Fait le commit avec votre message
+git commit -m "$COMMIT_MESSAGE"
+
+# Étape 4 : TIRE les dernières modifications de GitHub pour éviter les conflits
+echo "🔄 Pulling latest changes from GitHub..."
+git pull origin main
+
+# Étape 5 : Pousse TOUT vers GitHub
 echo "🚀 Pushing to GitHub..."
 git push origin main
 
-# Done
-echo "✅ Done! Your updated README.md should now be live on GitHub."
+# Terminé
+echo "✅ Done! Your project should now be fully synced with GitHub."
 
 exit 0

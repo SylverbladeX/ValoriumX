@@ -137,4 +137,4 @@ This repository and all its intellectual property are the original work of **Syl
 > For collaboration, licensing, or press inquiries:  
 > ✉️ `sylverblade.crypto@proton.me`
 
-© 2025 SylverBlade. All rights reserved.
+© 2025 ValoriumX. All rights reserved.
