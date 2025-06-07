@@ -117,3 +117,6 @@ Valorium X is an **open-source project** and thrives on collaboration. You can c
 
 Valorium X is licensed under **MIT** for maximum transparency and accessibility.  
 [View LICENSE](https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE) 
+
+Update README with Proof of Authorship and Quantum-Ready positioning
+
