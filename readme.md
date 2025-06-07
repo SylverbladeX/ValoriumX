@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SylverbladeX/ValoriumX/main/assets/vlrx-logo-min.png" alt="Valorium X Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/SylverbladeX/ValoriumX/main/pictures/vlrx-logo-min.jpg" alt="Valorium X Logo" width="600"/>
 </p>
-
 <h1 align="center">Valorium X (VLRX)</h1>
-
 <p align="center">
   <strong>The Bio-Inspired Blockchain with Progressive Autonomy.</strong>
   <br />
@@ -120,6 +118,7 @@ Valorium X is an **open-source project** and thrives on collaboration. You can c
 Valorium X is licensed under **MIT** for maximum transparency and accessibility.  
 [View LICENSE](https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE) 
 
+<<<<<<< HEAD
 ## ⏳ Proof of Authorship
 
 This repository and all its intellectual property are the original work of **SylverBlade** (`sylverblade.crypto@proton.me`).
@@ -150,4 +149,7 @@ Commit SHA: cd9685a8e3866763ad1e9e36d442155e7d55abaa
 
 > For collaboration, research inquiries, or partnership:
 > `sylverblade.crypto@proton.me`
+=======
+Update README with Proof of Authorship and Quantum-Ready positioning
+>>>>>>> 7f5091b59bd96ee5f6b159b967eb2b76f8d2c045
 
