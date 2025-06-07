@@ -118,7 +118,6 @@ Valorium X is an **open-source project** and thrives on collaboration. You can c
 Valorium X is licensed under **MIT** for maximum transparency and accessibility.  
 [View LICENSE](https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE) 
 
-<<<<<<< HEAD
 ## ⏳ Proof of Authorship
 
 This repository and all its intellectual property are the original work of **SylverBlade** (`sylverblade.crypto@proton.me`).
@@ -156,6 +155,6 @@ Commit SHA: cd9685a8e3866763ad1e9e36d442155e7d55abaa
 Unauthorized reproduction or redistribution of any part of this project is prohibited.  
 For collaboration or licensing inquiries, contact the author.
 
-=======
+
 Update README with Proof of Authorship and Quantum-Ready positioning
->>>>>>> 7f5091b59bd96ee5f6b159b967eb2b76f8d2c045
+
