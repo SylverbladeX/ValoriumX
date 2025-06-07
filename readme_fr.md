@@ -30,6 +30,15 @@
 
 ---
 
+## 🆕 Nouveau sur Valorium X ?
+
+📘 **Vous cherchez une version simplifiée pour mieux comprendre ?**  
+Nous avons préparé une présentation claire et accessible.
+
+➡️ [Lire « Qu’est-ce que Valorium X, en bref ? »](newbie-fr.md)
+
+---
+
 ## 🌟 La Vision : La Naissance d’une Étoile
 
 Nous ne lançons pas simplement une autre blockchain. Nous déclenchons un **changement de paradigme à l’échelle cosmique**, tel la **naissance d’une étoile** — lente, puissante, rayonnante et génératrice.

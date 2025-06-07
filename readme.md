@@ -30,6 +30,15 @@
 
 ---
 
+## 🆕 New to Valorium X?
+
+📘 **Looking for a simplified explanation to get started?**  
+We’ve prepared a beginner-friendly overview just for you.
+
+➡️ [Read "What is Valorium X, in a Nutshell?"](newbie.md)
+
+---
+
 ## 🌟 The Vision: The Birth of a Star
 
 We are not just launching another blockchain. We are sparking a **cosmic-scale paradigm shift**, like the **birth of a star** — slow, powerful, radiant, and generative.
