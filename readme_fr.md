@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/SylverbladeX/ValoriumX/main/pictures/vlrx-logo-min.jpg" alt="Logo Valorium X" width="600"/>
 </p>
 
-<h1 align="center">Valorium X (VLRX)</h1>
+<h1 align="center">Valorium X</h1>
 <p align="center">
   <strong>La blockchain bio-inspirée à autonomie progressive</strong><br />
   <em>La naissance d’une nouvelle ère de confiance numérique</em>
