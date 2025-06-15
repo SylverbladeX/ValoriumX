@@ -78,6 +78,19 @@ Curieux de l’architecture ?
 🧩 [Voir le dépôt GitHub](https://github.com/SylverbladeX/ValoriumX)  
 💡 N’hésitez pas à ouvrir une “Issue” pour lancer un débat !
 
+
+## 🌍 Rejoindre la Communauté
+
+- 🐦 [Twitter](https://twitter.com/ValoriumX)  
+- 📺 [YouTube](https://youtube.com/ValoriumX)
+- 🏗️ [Github](https://github.com/SylverbladeX/ValoriumX)
+- 💬 Discord (bientôt disponible)  
+- 🌐 Site officiel (bientôt en ligne)
+
+---
+🚀 Ready to Begin?
+
+Don’t be the one saying “If only I had...” 10 years from now.Be early. Be ready. Be Valorium.
 ---
 
 **© 2025 SylverBlade. Tous droits réservés.**

@@ -62,8 +62,10 @@ We are in **Phase 1: Foundation & Simulation Prototyping**.
 
 ---
 
-## 📖 Key Documents
+## 🚀 Getting Started (Key Documents)
+To understand the depth of Valorium X, we invite you to start with these foundational documents.
 
+🏛️ Read our Conceptual Grand Work (Full Vision) - The most comprehensive document detailing our entire vision.
 📄 Whitepapers:  
 - [🇺🇸 English Whitepaper](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)  
 - [🇫🇷 Livre Blanc en Français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)  

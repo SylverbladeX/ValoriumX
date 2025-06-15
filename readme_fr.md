@@ -62,8 +62,11 @@ Nous sommes en **Phase 1 : Fondation & Prototypage en Simulation**.
 
 ---
 
-## 📖 Documents Clés
+🚀 Par Où Commencer ? (Les Documents Clés)
+Pour comprendre la profondeur de Valorium X, nous vous invitons à commencer par ces documents fondateurs.
 
+🏛️ Lire notre Grand Œuvre Conceptuel (Vision Complète) - Le document le plus complet détaillant notre vision.
+📖 Lire le Livre Blanc en Français (Version Complète) - Le manifeste formel du projet.
 📄 Livres blancs :  
 - [🇺🇸 Whitepaper en anglais](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)  
 - [🇫🇷 Livre blanc en français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)  
@@ -73,21 +76,19 @@ Nous sommes en **Phase 1 : Fondation & Prototypage en Simulation**.
 
 ---
 
-## 🛠️ Architecture Principale
+## 🛠️ Architecture Fondamentale
 
-- 🧬 **Système de codage Quadrit**  
-- 🧠 **Nœuds neuronaux** avec intelligence décentralisée  
-- 🔐 **Cryptographic Interlocking Proof (CIP)**  
+- 🧬 **Bio-Inspiration (ADN) : Une architecture à Double Hélice et un système de codage à Quadrits.** 
+- 🔐 **Sécurité Absolue (CIP) : Notre "soudure numérique", la Preuve d'Imbrication Cryptographique.**  
 - ♻️ **Couches auto-réparatrices autonomes**  
-- 🔗 Contrats intelligents : couche de compatibilité future (FCL) à venir
+- 🧠 **Autonomie Progressive (IA) : Une Deuxième Hélice agissant comme un "Conseiller Algorithmique".**
 
 ---
 
 ## 📅 Feuille de Route
 
 ### 📍 Phase 1 — 2025  
-🔹 Fondation + simulations  
-🔹 Publication du livre blanc  
+🔹 Fondation + simulations   
 🔹 Intégration communautaire
 
 ### 🚀 Phase 2 — 2025-2026  
@@ -115,7 +116,8 @@ Nous accueillons chercheurs, cryptographes, développeurs et rêveurs.
 ## 🌍 Rejoindre la Communauté
 
 - 🐦 [Twitter](https://twitter.com/ValoriumX)  
-- 📺 [YouTube](https://youtube.com/ValoriumX)  
+- 📺 [YouTube](https://youtube.com/ValoriumX)
+- 🏗️ [Github](https://github.com/SylverbladeX/ValoriumX)
 - 💬 Discord (bientôt disponible)  
 - 🌐 Site officiel (bientôt en ligne)
 
