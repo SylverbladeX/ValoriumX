@@ -3,6 +3,7 @@
 Imagine a technology that doesn’t just follow instructions — it learns, adapts, and protects itself. That’s **Valorium X**.
 Our quest? The *digital Philosopher’s Stone*.
 
+Pour lire la version en français, tu peux consulter newbie-fr.md ici : 🔗 Lire en français
 ---
 
 🧬 **DNA-Inspired**
