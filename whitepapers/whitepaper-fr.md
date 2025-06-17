@@ -87,3 +87,11 @@ Valorium X se déploie en trois phases claires :
 En s'inspirant de la résilience de l'ADN et en s'ancrant dans les avancées possibles de la cryptographie et de l'intelligence artificielle, Valorium X propose un chemin crédible vers un futur décentralisé. Notre approche n'est pas de promettre une révolution instantanée, mais de **construire méthodiquement les briques d'un système plus intelligent et plus sûr**. La Blockchain Bio-Inspirée de Valorium X, avec sa Preuve d'Imbrication Cryptographique et son modèle d'autonomie progressive, est conçue pour gagner la confiance par la preuve, pas seulement par la promesse.
 
 L'initiative Sylver Blade invite la communauté à participer à un projet de recherche et de développement ouvert. Rejoignez-nous pour construire, tester, valider et faire évoluer la prochaine génération de confiance numérique, une étape réaliste à la fois.
+
+## 🔗 Accès au Dépôt  
+
+Retrouvez tous les documents essentiels, y compris les **Whitepapers** et les **Fichiers pour les nouveaux arrivants**, dans notre dépôt GitHub officiel :  
+
+[ValoriumX Repository](https://github.com/SylverbladeX/ValoriumX)  
+
+Restez informé des dernières avancées et développements ! 🚀✨  
