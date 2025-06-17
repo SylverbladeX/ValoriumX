@@ -88,4 +88,11 @@ By drawing inspiration from the resilience of DNA and anchoring itself in the po
 
 The Sylver Blade initiative invites the community to participate in an open research and development project. Join us to build, test, validate, and evolve the next generation of digital trust, one realistic step at a time.
 
-🔗 GitHub Home : ValoriumX Repository
+## 🔗 Repository Access
+
+Find all essential documents, including **Whitepapers** and **Newbie Files**, in our official GitHub repository:
+
+[ValoriumX Repository](https://github.com/SylverbladeX/ValoriumX)
+
+Stay updated with the latest insights and developments! 🚀✨
+
