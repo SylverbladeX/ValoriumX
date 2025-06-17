@@ -2,6 +2,7 @@
 
 Imagine une technologie qui ne se contente pas de suivre des ordres : elle **apprend, s’adapte et se protège**. C’est **Valorium X** — notre quête de la *Pierre philosophale* du numérique.
 
+🔗 [Read in English](https://github.com/SylverbladeX/ValoriumX/blob/main/newbie.md)
 ---
 
 🧬 **Inspiré par l’ADN**  
