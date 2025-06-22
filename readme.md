@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SylverbladeX/ValoriumX/blob/main/pictures/vlrx-logo-min.jpg" alt="Logo de Valorium X" width="150"/>
+  <img src="https://github.com/SylverbladeX/ValoriumX/blob/main/pictures/vlrx-logo-min.jpg" alt="Logo de Valorium X" width="550"/>
 </p>
 
 <h1 align="center">Valorium X ($VQXAI)</h1>
