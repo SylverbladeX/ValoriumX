@@ -66,6 +66,12 @@ Our strategic roadmap is divided into three distinct phases:
 
 For more details, see our full [**Roadmap Document**](https://github.com/SylverbladeX/ValoriumX/blob/main/docs/ROADMAP.md).
 
+🚀 Current Status: The Visionary MVP
+Valorium X is currently in Phase 1 of its roadmap.
+Our primary objective is the mathematical validation and intensive simulation of our core innovation: the Cryptographic Interlocking Proof (CIP) coupled with the Quadrit data system. The goal of this phase is to produce a technical paper and an open-source simulator that prove the robustness of our consensus mechanism.
+
+➡️ Explore the Live Simulation Concept Here
+
 ## How to Contribute
 
 We believe in the power of open-source collaboration. While the core protocol is in its early architectural phase, we welcome discussion, feedback, and peer review on the concepts laid out in this repository.
@@ -77,7 +83,7 @@ Please see our [**Contribution Guide**](https://github.com/SylverbladeX/Valorium
 The quest has begun. Follow the vision.
 * **[🐦 Twitter](https://twitter.com/ValoriumX)**
 * **[💬 Discord](https://discord.gg/your-invite-code)**
-* **[🌐 Website](https://vqxai.com)**
+* **[🌐 Ticker Website](https://vqxai.com)**
 
 ## License
 
