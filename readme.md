@@ -15,7 +15,7 @@
   <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
   <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg" alt="Contributions"></a>
   <br>
-  <a href="README_fr.md">Lire ce document en Français</a>
+  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/newbie-fr.md">Lire ce document en Français</a>
 </p>
 
 ---
