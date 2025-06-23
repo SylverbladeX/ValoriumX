@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤔 Valorium X, c’est quoi au juste ?
 
 Imagine une technologie qui ne fait pas qu’exécuter des instructions — elle apprend, s’adapte, et se protège toute seule.  
@@ -66,7 +65,6 @@ Valorium X brise les règles de l'écosystème crypto actuel :
 | ❌ **Réseau Passif :** Un simple registre réactif. | ✅ **Conscience Collective :** Un réseau actif, prédictif et auto-réparateur. |
 | ❌ **Gouvernance Humaine :** Lente, faillible et politique. | ✅ **Gouvernance Hybride :** Symbiose entre un DAO humain et une IA opérationnelle. |
 
-<<<<<<< HEAD
 ## 🧠 La blockchain, c’est quoi ?
 
 Une **blockchain**, c’est comme un cahier partagé sur internet — recopié des milliers de fois.  
@@ -74,20 +72,7 @@ Une fois que tu écris dedans, impossible d’effacer ou de falsifier.
 
 Un **token**, c’est comme une pièce numérique utilisable dans ce système.  
 Tu peux l’acheter, la garder, l’échanger, ou t’en servir pour accéder à des services.
-=======
-## Architecture Fondamentale
 
-Notre architecture est bio-inspirée, conçue pour la résilience et l'évolution :
-
-* **La Double Hélice :** Une structure à double brin séparant le registre de données immuable (**Première Hélice**) du cerveau opérationnel intelligent (**Deuxième Hélice**).
-* **Le Système à Quadrits :** Une structure de données native quaternaire (A, T, C, G) inspirée de l'ADN, créant un tissu informationnel plus riche.
-* **Le CIP (Preuve d'Imbrication Cryptographique) :** Un consensus en forme de "soudure numérique" qui assure une sécurité holistique du réseau.
-* **Le Génome Régénératif :** Un mécanisme de "sharding" intelligent permettant au réseau de se guérir lui-même.
-
-
-## Le Plan Directeur : Documents Clés
-
-<<<<<<< HEAD
 ## 🎯 Pour qui est Valorium X ?
 
 Que tu sois grand débutant ou simplement curieux, Valorium X a quelque chose à t’offrir :
@@ -99,18 +84,7 @@ Que tu sois grand débutant ou simplement curieux, Valorium X a quelque chose à
 * 🔐 **Le Staker** → Tu bloques tes tokens et tu gagnes un revenu passif.
 * 🧾 **Le Holder** → Tu gardes simplement tes tokens, et tu regardes leur valeur grimper.
 * 🤨 **Le Sceptique** → Tu doutes ? Tu n’es pas seul. Bitcoin faisait rire tout le monde au début.
-=======
-La vision complète de Valorium X est détaillée dans nos documents fondateurs. Nous vous invitons à les explorer pour comprendre la profondeur du projet.
-* **[Le Grand Œuvre Conceptuel](https://github.com/SylverbladeX/ValoriumX/blob/main/docs/GRAND_OEUVRE.md) (Plan Complet)**
-* **[Le Manifeste de l'Architecte](https://github.com/SylverbladeX/ValoriumX/blob/main/docs/MANIFESTO.md)**
-* **[La Constitution](https://github.com/SylverbladeX/ValoriumX/blob/main/docs/CONSTITUTION.md)**
-* **[VIPs Clés (Propositions d'Amélioration)](https://github.com/SylverbladeX/ValoriumX/tree/main/vips)**
 
-## Feuille de Route
-
-Notre feuille de route stratégique est divisée en trois phases distinctes :
-
-<<<<<<< HEAD
 ## 🍕 Tu connais le Bitcoin Pizza Day ?
 
 Le **22 mai 2010**, quelqu’un a payé **10 000 BTC pour deux pizzas**.  
@@ -118,19 +92,7 @@ Aujourd’hui, ça vaudrait plus d’un milliard de dollars.
 
 À l’époque, **personne ne croyait au Bitcoin**.  
 Et si, cette fois, tu étais là au bon moment ?
-=======
-1.  **Phase 1 - Consensus Prouvé :** Validation mathématique & simulation intensive du CIP.
-2.  **Phase 2 - Pont vers le Monde :** Lancement du Testnet, ponts vers d'autres écosystèmes, et SDK.
-3.  **Phase 3 - Éveil de l’Intelligence :** Lancement du Mainnet V1 et montée en puissance de la Deuxième Hélice.
 
-Pour plus de détails, consultez notre [**Document de Feuille de Route**](https://github.com/SylverbladeX/ValoriumX/blob/main/docs/ROADMAP.md).
-
-## Comment Contribuer
->>>>>>> 0f8a0a7d88ccb0a016b640414d3722957bec4a34
-
-Nous croyons au pouvoir de la collaboration open-source. Bien que le protocole principal soit dans sa phase architecturale précoce, nous accueillons les discussions, les retours et les analyses critiques sur les concepts présentés ici.
-
-<<<<<<< HEAD
 ## 🧭 Que faire avec Valorium X ?
 
 ### 💸 Pour les investisseurs
@@ -225,4 +187,3 @@ La quête a commencé. Suivez la vision.
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [**LICENSE**](https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE) pour plus de détails.
-

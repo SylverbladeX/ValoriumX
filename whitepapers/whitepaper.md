@@ -118,16 +118,4 @@ The official source code, documentation, and latest updates:
 
 By drawing inspiration from the resilience of DNA and anchoring itself in the possible advancements of cryptography and artificial intelligence, Valorium X offers a credible path to a decentralized future. Our approach is not to promise an instant revolution, but to **methodically build the blocks of a smarter, more secure system.** The Bio-Inspired Blockchain of Valorium X, with its Cryptographic Interlocking Proof and its model of progressive autonomy, is designed to earn trust through proof, not just promise.
 
-<<<<<<< HEAD
 The Sylver Blade initiative invites the community to participate in an open research and development project. Join us to build, test, validate, and evolve the next generation of digital trust, one realistic step at a time.
-=======
-The Sylver Blade initiative invites the community to participate in an open research and development project. Join us to build, test, validate, and evolve the next generation of digital trust, one realistic step at a time.
-
-## 🔗 Repository Access
-
-Find all essential documents, including **Whitepapers** and **Newbie Files**, in our official GitHub repository:
-
-[ValoriumX Repository](https://github.com/SylverbladeX/ValoriumX)
-
-Stay updated with the latest insights and developments! 🚀✨
-
