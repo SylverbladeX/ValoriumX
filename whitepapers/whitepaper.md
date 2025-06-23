@@ -54,6 +54,7 @@ Complementing QRHC, Valorium X uses generative cryptography techniques for speci
 Valorium X aims for autonomy through an evolutionary and controlled process.
 
 ### 4.1. Phase 1: The Algorithmic Advisor and DAO Governance
+**Phase 1 officially launched!**  
 At launch, the second helix analyzes the protocol's economy and **generates formal improvement proposals** (e.g., fee adjustments). These proposals are then put to a vote by token holders via the **Valorium X DAO**. Humans remain the final validators.
 
 ### 4.2. Phase 2: Progressive Delegation
@@ -64,8 +65,10 @@ Over time, as the Algorithmic Advisor proves its reliability, the community (via
 Valorium X unfolds in three clear phases:
 
 * **Phase 1: Foundation and Prototyping (Years 1-2)**
+    * **Officially launched.**
     * **Objectives:** Validate basic concepts in a simulated environment and on a testnet.
     * **Key Deliverables:** Whitepaper publication, public GitHub launch, development of the Quadrit data library, launch of an economic simulator and an internal testnet.
+    * **Status:** Foundations and simulations in progress, community integration ongoing.
 
 * **Phase 2: Growth and Governance (Years 3-4)**
     * **Objectives:** Launch the mainnet with human governance and a protocol that learns and advises.
@@ -75,12 +78,41 @@ Valorium X unfolds in three clear phases:
     * **Objectives:** Achieve a high degree of protocol autonomy and become a benchmark infrastructure.
     * **Key Deliverables:** The protocol autonomously manages a growing number of parameters. Active R&D into pure quantum technologies begins.
 
-## 6. Brand Strategy and Identity
+## 6. Brand Strategy, Repository & Identity
 
-* **Founder:** The project will be led under the pseudonym **Sylver Blade** to focus attention on the technology, not the individual, in the tradition of Satoshi Nakamoto.
-* **Name and Ticker:** **Valorium X (VLRX)**.
+* **Founder:** The project is led under the pseudonym **Sylver Blade** to keep the focus on the technology, in the tradition of Satoshi Nakamoto.
+* **Name and Ticker:** **Valorium X (VQXAI)**.
 * **Slogan:** **"The Bio-Inspired Blockchain"**.
-* **Communication:** An official website, a GitHub repository (code in English), and a selective, professional media presence.
+
+* **Official Repository:**  
+  The source code, key documentation, and all project updates are available on our main GitHub repository:  
+  👉 [https://github.com/SylverbladeX/ValoriumX](https://github.com/SylverbladeX/ValoriumX)
+
+* **Official Website & Ticker:**  
+  Project news, the DAO, and future releases will be announced at  
+  👉 [https://vqxai.com](https://vqxai.com)
+
+* **Whitepapers & Resources:**  
+  - [🇺🇸 English Whitepaper](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)  
+  - [🇫🇷 French Whitepaper](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)  
+  - [🇨🇳 Executive Summary - 中文](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-ch.md)  
+  - [🇯🇵 Executive Summary - 日本語](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-Ja.md)  
+  - [🇪🇸 Executive Summary - Español](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)
+
+* **Communication:**  
+  - Twitter: [@ValoriumX](https://twitter.com/ValoriumX)  
+  - YouTube: [Valorium X](https://youtube.com/ValoriumX)  
+  - Discord: [Join us](https://discord.gg/QVPKBSWs)  
+  - Lead Architect: [sylverblade.com](https://sylverblade.com)
+
+---
+
+## 👉 Project Repository
+
+The official source code, documentation, and latest updates:  
+🔗 [https://github.com/SylverbladeX/ValoriumX](https://github.com/SylverbladeX/ValoriumX)
+
+---
 
 ## 7. Conclusion
 

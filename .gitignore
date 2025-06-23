@@ -1,54 +1,56 @@
+# ===========================================
 # Node / JS / Python dev tools
+# ===========================================
 node_modules/
 .env
-.DS_Store
 *.log
 *.pyc
 __pycache__/
 
-# OS & editor junk
-*.swp
-.idea/
-.vscode/
-Thumbs.db
-
-# Fichiers système macOS
+# ===========================================
+# Fichiers système et temporaires (OS & éditeurs)
+# ===========================================
+# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# Fichiers système Windows
+# Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Fichiers d'éditeur de code
-.vscode/
-.idea/
+# Linux / Vim / autres éditeurs
 *.swp
 *~
+# VSCode & JetBrains
+.vscode/
+.idea/
 *.sublime-project
 *.sublime-workspace
 
+# ===========================================
 # Fichiers de log et temporaires
-*.log
+# ===========================================
 logs/
 tmp/
 temp/
 
-# Fichiers de build et de dépendances (exemples, à adapter si vous utilisez ces outils plus tard)
-# node_modules/
-# .env
+# ===========================================
+# Fichiers de build et de dépendances
+# (décommente si utilisé)
 # dist/
 # build/
 # target/
 
-# Fichiers Python
-__pycache__/
-*.py[cod]
+# ===========================================
+# Python spécifiques
+# ===========================================
 *.egg-info/
+*.egg
 dist/
 build/
-*.egg
 
-# Autres fichiers spécifiques à votre environnement que vous ne voulez pas commiter
+# ===========================================
+# Autres fichiers spécifiques à votre environnement
+# ===========================================

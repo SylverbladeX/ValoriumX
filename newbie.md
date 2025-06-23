@@ -1,35 +1,35 @@
 # 🤔 What Is Valorium X, Really?
 
-Imagine a technology that doesn’t just follow instructions — it learns, adapts, and protects itself. That’s **Valorium X**.
+Imagine a technology that doesn’t just follow instructions — it learns, adapts, and protects itself. That’s **Valorium X**.  
 Our quest? The *digital Philosopher’s Stone*.
 
 ---
 
-🧬 **DNA-Inspired**
-We looked to nature: why not replicate what it does best?
+🧬 **DNA-Inspired**  
+We looked to nature: why not replicate what it does best?  
 Our network is built on a **double-helix structure**, making it ultra-resilient.
 
-🔒 **Fortress-Level Security**
-We don’t just "chain" blocks — we **weld** them together.
+🔒 **Fortress-Level Security**  
+We don’t just "chain" blocks — we **weld** them together.  
 It’s our **Cryptographic Interlocking Proof (CIP)**. Good luck hacking that.
 
-🧠 **Built-in Intelligence**
+🧠 **Built-in Intelligence**  
 An embedded AI, the **Algorithmic Advisor**, learns and optimizes the network 24/7.
 
-✨ **Future-Proof Design**
+✨ **Future-Proof Design**  
 From day one, it’s built to withstand future threats — including **quantum computing**.
 
-🤝 **Trust by Design**
+🤝 **Trust by Design**  
 No middlemen required. Trust is **in the code, in the structure, in the network’s DNA**.
 
 ---
 
 ## 🧠 So, What’s a Blockchain?
 
-A **blockchain** is like a shared notebook on the internet — copied thousands of times.
+A **blockchain** is like a shared notebook on the internet — copied thousands of times.  
 Once you write in it, no one can erase or forge it.
 
-A **token** is like a digital coin usable within that system.
+A **token** is like a digital coin usable within that system.  
 You can buy it, hold it, trade it, or use it to access services.
 
 ---
@@ -50,10 +50,10 @@ Whether you’re a total beginner or simply curious, Valorium X offers something
 
 ## 🍕 Remember Bitcoin Pizza Day?
 
-On **May 22, 2010**, someone paid **10,000 BTC for two pizzas**.
+On **May 22, 2010**, someone paid **10,000 BTC for two pizzas**.  
 Today, that’s worth over a billion dollars.
 
-Back then, **no one believed in Bitcoin**.
+Back then, **no one believed in Bitcoin**.  
 What if this time, you were early?
 
 ---
@@ -120,25 +120,22 @@ You’re here at the right time — the journey is just beginning.
 
 ## 🚀 Ready to Begin?
 
-Don’t be the one saying *“If only I had...”* 10 years from now.
+Don’t be the one saying *“If only I had...”* 10 years from now.  
 Be early. Be ready. Be **Valorium**.
 
 ### 🧬 Explore the Code  
 See how it all fits together.  
 🧩 [Visit the GitHub Repository](https://github.com/SylverbladeX/ValoriumX)  
 💬 Don’t hesitate to open an Issue and start a conversation!
+
 🌍 Join the Community
-🐦 Twitter
-📺 YouTube
-💬 Discord (Coming Soon)
-🌐 Official Website (Coming Soon)
+
+- 🐦 [Twitter](https://twitter.com/ValoriumX)  
+- 📺 [YouTube](https://youtube.com/ValoriumX)
+- 💬 [Discord](https://discord.gg/QVPKBSWs)
+- 🌐 [Official Project Website (vqxai.com)](https://vqxai.com) — The official Valorium X ticker and project site  
+- 👤 [Project Architect: sylverblade.com](https://sylverblade.com)
 
 ---
-
-
-## 🚀 Ready to Begin?
-
-Don’t be the one saying *“If only I had...”* 10 years from now.
-Be early. Be ready. Be **Valorium**.
 
 **© 2025 SylverBlade. All rights reserved.**

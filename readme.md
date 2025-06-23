@@ -4,148 +4,140 @@
 
 <h1 align="center">Valorium X</h1>
 <p align="center">
-  <strong>The Bio-Inspired Blockchain with Progressive Autonomy</strong><br />
-  <em>The birth of a new era of digital trust</em>
+  <strong>The bio-inspired blockchain with progressive autonomy</strong><br />
+  <em>The dawn of a new era of digital trust</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="Project Status">
+  <img src="https://img.shields.io/badge/Phase%201-Launched-brightgreen" alt="Phase 1 Launched">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
   <br>
-  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme_fr.md">📘 Lire ce document en Français</a>
+  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/README_FR.md">🇫🇷 Lire ce document en français</a>
 </p>
 
 ---
 
 ## 🧬 About Valorium X
 
-**Valorium X** is not just an enhancement of existing technologies—it is a **fundamental reimagining** of blockchain. Inspired by the **resilience of DNA** and **quantum principles**, our protocol is designed for the era of **AI and quantum computing**.
+**Valorium X** is not just an upgrade of existing technologies: it's a **fundamental reinvention** of blockchain. Inspired by the **resilience of DNA** and **quantum principles**, our protocol is designed for the age of **artificial intelligence and quantum computing**.
 
-🎯 Our goal is to build a decentralized, autonomous, and self-healing blockchain infrastructure that is:
-- Intrinsically secure 🛡️
-- Bio-inspired 🌱
-- Quantum-resistant ⚛️
-- AI-augmented 🤖
+🎯 Our goal: to build a decentralized, autonomous, and self-healing blockchain infrastructure that is:
+- Inherently secure 🛡️  
+- Bio-inspired 🌱  
+- Quantum-resistant ⚛️  
+- Enhanced by AI 🤖
 
 ---
 
 ## 🆕 New to Valorium X?
 
-📘 **Looking for a simplified explanation to get started?**  
-We’ve prepared a beginner-friendly overview just for you.
+📘 **Looking for a simplified version to get started?**  
+We’ve prepared a clear and accessible introduction.
 
-➡️ [Read "What is Valorium X, in a Nutshell?"](newbie.md)
+➡️ [Read "What Is Valorium X, Really? (Newbie Guide)"](newbie.md)
 
 ---
 
-## 🌟 The Vision: The Birth of a Star
+## 🌟 The Vision: Birth of a Star
 
-We are not just launching another blockchain. We are sparking a **cosmic-scale paradigm shift**, like the **birth of a star** — slow, powerful, radiant, and generative.
+We’re not just launching another blockchain. We are initiating a **cosmic-scale paradigm shift**, like the **birth of a star**—slow, powerful, radiant, and generative.
 
-✨ Core principles:
-- 🧬 **Double Helix Ledger** — inspired by DNA
-- 🔐 **Cryptographic Interlocking Proof (CIP)** — tamper-evident record layer
-- 🧠 **AI Advisory Coil** — evolutionary guidance system
+✨ Core Principles:
+- 🧬 **Double Helix Ledger** — inspired by DNA  
+- 🔐 **Cryptographic Interlocking Proof (CIP)** — unforgeable ledger layer  
+- 🧠 **AI Advisory Coil** — evolving guidance system  
 - 🪐 **Gravitational Consensus** — dynamic, decentralized orchestration
+- 🧬 **Quadrits & QML-ready** — native encoding for the quantum era
+- 🦾 **Progressive Autonomy** — built-in AI upgrades, self-repair, and a “living” network
 
 ---
 
 ## 🚀 Project Status
 
-We are in **Phase 1: Foundation & Simulation Prototyping**.
+**Phase 1 officially launched** – The foundational architecture, threat modeling, and community simulations for VQXAI are now underway.
 
 ✔️ Core architecture design  
-✔️ Quantum-ready threat modeling  
-✔️ Contribution and simulation call open  
-❗ DAO governance + testnet launching soon
+✔️ Quantum threat modeling  
+✔️ Call for contributors and first simulations  
+❗ DAO, testnet, and official Rust SDK: coming soon  
+❗ Official ticker: VQXAI ([vqxai.com](https://vqxai.com))
 
 ---
 
-## 🚀 Getting Started (Key Documents)
-To understand the depth of Valorium X, we invite you to start with these foundational documents.
+🚀 Where to Start? (Key Documents)  
+To understand the depth of Valorium X, we invite you to start with these foundational documents:
 
-🏛️ Read our Conceptual Grand Work (Full Vision) - The most comprehensive document detailing our entire vision.
+🏛️ Read our Grand Vision Document (Complete Vision) – the most comprehensive explanation of our approach.  
+📖 Read the Full Whitepaper (French Version) – the project’s formal manifesto.  
 📄 Whitepapers:  
 - [🇺🇸 English Whitepaper](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper.md)  
-- [🇫🇷 Livre Blanc en Français](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)  
-- [🇨🇳 Executive Summary - 中文](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-ch.md)  
+- [🇫🇷 French Whitepaper](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-fr.md)  
+- [🇪🇸 Executive Summary - Español](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)  
 - [🇯🇵 Executive Summary - 日本語](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-Ja.md)  
-- [🇪🇸 Executive Summary - Español](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-es.md)
+- [🇨🇳 白皮書（繁體中文）](https://github.com/SylverbladeX/ValoriumX/blob/main/whitepapers/whitepaper-ch.md)
 
 ---
 
 ## 🛠️ Core Architecture
 
-- 🧬 **Quadrit Encoding System**  
-- 🧠 **Neural Nodes** with decentralized intelligence  
-- 🔐 **Cryptographic Interlocking Proof (CIP)**  
-- ♻️ **Autonomous Self-Healing Layers**  
-- 🔗 Smart Contracts: Future Compatibility Layer (FCL) planned
+- 🧬 **Bio-Inspiration (DNA):** Double Helix architecture and Quadrits coding system  
+- 🔐 **Absolute Security (CIP):** Our “digital welding”, Cryptographic Interlocking Proof  
+- ♻️ **Autonomous self-healing layers**  
+- 🧠 **Progressive Autonomy (AI):** A second helix acting as an "Algorithmic Advisor"  
+- 🪐 **Gravitational Consensus:** Dynamic, censorship-resistant synchronization  
+- 🚀 **Official Rust SDK (coming soon):** For high-performance, interoperable, and AI-ready applications
+
+> 🧬 **Some technological components and cryptographic concepts remain deliberately confidential at this stage to protect the security, innovation, and community advantage of Valorium X.**  
+> More details will be revealed during audits, publications, and at each phase.
 
 ---
 
 ## 📅 Roadmap
 
 ### 📍 Phase 1 — 2025  
-🔹 Foundation + simulations  
-🔹 Whitepaper release  
-🔹 Community onboarding
+**Officially launched.**  
+- Foundations and simulations in progress  
+- Community integration ongoing
 
 ### 🚀 Phase 2 — 2025-2026  
-🔹 Mainnet v1  
-🔹 DAO governance  
-🔹 CIP + AI integration
+- Mainnet v1  
+- DAO governance  
+- CIP + AI integration  
+- Integrated marketplace (no CEX)
 
 ### 🧠 Phase 3 — 2026+  
-🔹 Delegated autonomy  
-🔹 Quantum R&D layer  
-🔹 Interplanetary expansion (IPFS+QML)
+- Delegated autonomy  
+- Quantum R&D layer  
+- Interplanetary expansion (IPFS + QML)
 
 ---
 
 ## 🤝 Contributing
 
-We welcome collaborators, scientists, cryptographers, and dreamers.
+We welcome researchers, cryptographers, developers, and visionaries.
 
 📝 Please read our [Contribution Guidelines](https://github.com/SylverbladeX/ValoriumX/blob/main/CONTRIBUTING.md)  
 🐛 Open an [Issue](https://github.com/SylverbladeX/ValoriumX/issues)  
-📤 Share ideas and simulations
+📤 Share your ideas and simulations
 
 ---
 
 ## 🌍 Join the Community
 
-- 🐦 [Twitter](https://twitter.com/ValoriumX)
+- 🐦 [Twitter](https://twitter.com/ValoriumX)  
 - 📺 [YouTube](https://youtube.com/ValoriumX)
-- 💬 Discord (Coming Soon)
-- 🌐 Official Website (Coming Soon)
+- 🏗️ [Github](https://github.com/SylverbladeX/ValoriumX)
+- 💬 [Discord](https://discord.gg/QVPKBSWs)
+- 🌐 [Official site & ticker: vqxai.com](https://vqxai.com)
+- 👤 [Project Architect: sylverblade.com](https://sylverblade.com)
 
 ---
 
-## 🔏 License
+## 👉 Project Repository
 
-Valorium X is licensed under the **MIT License**.  
-[View LICENSE](https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE)
-
----
-
-## ⏳ Proof of Authorship
-
-This repository and all its intellectual property are the original work of **SylverBlade** (`sylverblade.crypto@proton.me`).
-
-- 📅 Repository initialized: **May 28, 2025**  
-- 🔗 Initial Commit SHA: [`cd9685a`](https://github.com/SylverbladeX/ValoriumX/commit/cd9685a8e3866763ad1e9e36d442155e7d55abaa)
-
-> ⚠️ ValoriumX is not affiliated with any prior cryptocurrency named “Valorium (VLM)” and is an entirely independent creation.
-
-<!-- Timestamp (ISO 8601): 2025-05-28T23:31:32-04:00 -->
+The official source code, documentation, and latest updates:  
+🔗 [https://github.com/SylverbladeX/ValoriumX](https://github.com/SylverbladeX/ValoriumX)
 
 ---
-
-## 📩 Contact
-
-> For collaboration, licensing, or press inquiries:  
-> ✉️ `sylverblade.crypto@proton.me`
-
-© 2025 ValoriumX. All rights reserved.
