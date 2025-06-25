@@ -1,0 +1,73 @@
+{
+    "chain": [
+        {
+            "block_number": 0,
+            "timestamp": 1750385245.7561784,
+            "transactions": [],
+            "previous_hash": "0",
+            "rna_template_hash": "bcd11cd3b797cba31be583d688149e2da605f9fe5489912d9282724dcc19c7d8b56cac752168b3646e6d52632e5973e6e9513f236c3cf2d44c34d09962de39d6",
+            "winning_cip_proof": {
+                "rna_template_hash": "bcd11cd3b797cba31be583d688149e2da605f9fe5489912d9282724dcc19c7d8b56cac752168b3646e6d52632e5973e6e9513f236c3cf2d44c34d09962de39d6",
+                "coherence_anchors_hash": "297667a7232064ac8da8d17d43e641812b2463f6293593230d664f5ccd3a043af75e3f937eacc6f1fce8e088658b8930ffc4d7a92b8fce772d4c6cf8f1029a7d",
+                "proof_hash": "f4695da7166fbd5cc18cbd6cb7d367c3b609b5daf23a0684a29160418715e264c73eef16a1aee838206cf73bffff261810eaf75e88bb51bb3bbd3059642045ed"
+            },
+            "attestations": [
+                {
+                    "proof_hash": "f4695da7166fbd5cc18cbd6cb7d367c3b609b5daf23a0684a29160418715e264c73eef16a1aee838206cf73bffff261810eaf75e88bb51bb3bbd3059642045ed",
+                    "node_address": "genesis_calculator",
+                    "signature": "fb7a6a1b8608d1300cd860082403ed7aea11cec380f198e8851d48782e6357609825750f3a87e4e32dd2736bed97b21b3230e82672fab31f6bc5e860d285eb2e"
+                }
+            ],
+            "block_hash": "8357143c957f7ffddd29bc53dc725e052ef13869deddb0a57832753cb358b5fc6e93d1f6cfb82bb92519014a87403d3a7577140a4ab3aaafb0570a82b707d433"
+        }
+    ],
+    "balances": {
+        "Validator-01": 1000.0,
+        "Validator-02": 1000.0,
+        "Validator-03": 1000.0,
+        "NeuralNode-01": 1000.0,
+        "NeuralNode-02": 1000.0,
+        "NeuralNode-03": 1000.0,
+        "NeuralNode-04": 1000.0,
+        "Alice": 2000,
+        "ValoriumX_Treasury": 200.0
+    },
+    "pending_transactions": [
+        {
+            "sender": "Alice",
+            "recipient": "Bob",
+            "amount": 100,
+            "timestamp": 1750385245.7562912
+        },
+        {
+            "sender": "Alice",
+            "recipient": "Charlie",
+            "amount": 50,
+            "timestamp": 1750385245.7563577
+        },
+        {
+            "sender": "Alice",
+            "recipient": "Bob",
+            "amount": 100,
+            "timestamp": 1750385245.787454
+        },
+        {
+            "sender": "Alice",
+            "recipient": "Charlie",
+            "amount": 50,
+            "timestamp": 1750385245.7875214
+        },
+        {
+            "sender": "Alice",
+            "recipient": "Bob",
+            "amount": 100,
+            "timestamp": 1750385245.8186464
+        },
+        {
+            "sender": "Alice",
+            "recipient": "Charlie",
+            "amount": 50,
+            "timestamp": 1750385245.8187125
+        }
+    ]
+}
