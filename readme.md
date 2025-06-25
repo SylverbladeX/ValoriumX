@@ -1,43 +1,81 @@
-# ValoriumX-Simulator
+<p align="center">
+  <img src="https://github.com/SylverbladeX/ValoriumX/blob/main/pictures/vlrx-logo-min.jpg" alt="Logo de Valorium X" width="550"/>
+</p>
 
-> 🚀 **Current Status:**  
-> _The Visionary MVP Valorium X is currently in Phase 1 of its roadmap. Our primary objective is the mathematical validation and intensive simulation of our core innovation: the Cryptographic Interlocking Proof (CIP) coupled with the Quadrit data system. The goal of this phase is to produce a technical paper and an open-source simulator that prove the robustness of our consensus mechanism._
+<h1 align="center">Valorium X ($VQXAI)</h1>
 
-Valorium X is a bio-inspired blockchain simulator (“First Helix”) designed to explore innovative consensus models and cryptographic systems.
+<p align="center">
+  <strong>The bio-inspired blockchain with progressive autonomy</strong><br />
+  <em>The dawn of a new era of digital trust</em>
+</p>
 
-## 🚀 Vision
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="Project Status">
+  <img src="https://img.shields.io/badge/Phase%201-Launched-brightgreen" alt="Phase 1 Launched">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
+  <br>
+  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/README_FR.md">🇫🇷 Lire ce document en français</a>
 
-- **Biomimetics**: RNA/CIP/Block workflow inspired by natural processes
-- **Quadrit Hashing**: Security, uniqueness, and innovative cryptography
-- **Modularity**: Hybrid architecture (bio-inspired and/or simple modes)
-- **Transparency & Community Governance**: Valorium Improvement Proposals (VIPs)
+  <strong>The Bio-Inspired, Quantum-Ready Blockchain for Progressive Autonomy and Ultimate Digital Trust.</strong>
+  <br />
+  <em>We are not building another chain. We are seeding a new digital organism.</em>
+</p>
 
-## 📦 Installation
+<p align="center">
+  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/docs/ROADMAP.md"><img src="https://img.shields.io/badge/Status-Phase%201%3A%20Proven%20Consensus-blue.svg" alt="Project Status"></a>
+  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg" alt="Contributions"></a>
+  <br>
+  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/newbie-fr.md">Lire ce document en Français</a>
+</p>
 
-```bash
-git clone https://github.com/SylverbladeX/ValoriumX-Simulator.git
-cd ValoriumX-Simulator
-python main.py
-```
+---
 
-## 🛠️ Usage Modes
+> "The focus is not on the architect, but on the architecture."
+>
+> *– Sylver Blade*
 
-- **Bio-inspired mode** (RNA/CIP workflow)
-- **Simple mode** (classic Quadrit mining)
+**Valorium X** is not just an upgrade of existing technologies: it's a **fundamental reinvention** of blockchain. Inspired by the **resilience of DNA** and **quantum principles**, our protocol is designed for the age of **artificial intelligence and quantum computing**.
 
-> Set the mode in `main.py`:  
-> `MODE = "bio"` or `"simple"`
+🎯 Our goal: to build a decentralized, autonomous, and self-healing blockchain infrastructure that is:
+- Inherently secure 🛡️  
+- Bio-inspired 🌱  
+- Quantum-resistant ⚛️  
+- Enhanced by AI 🤖
 
-## 🧬 Documentation
+📘 **Looking for a simplified version to get started?**  
+We’ve prepared a clear and accessible introduction.
 
-- See the `/docs` folder for VIPs (Valorium Improvement Proposals)
-- See `CONTRIBUTING.md` for how to participate and propose ideas
+➡️ [Read "What Is Valorium X, Really? (Newbie Guide)"](newbie.md)
 
-## 🤝 Contributing
+## 🌟 The Vision: Birth of a Star
 
-All contributions, suggestions, and bug reports are welcome!  
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We’re not just launching another blockchain. We are initiating a **cosmic-scale paradigm shift**, like the **birth of a star**—slow, powerful, radiant, and generative.
 
-## 📜 License
+✨ Core Principles:
+- 🧬 **Double Helix Ledger** — inspired by DNA  
+- 🔐 **Cryptographic Interlocking Proof (CIP)** — unforgeable ledger layer  
+- 🧠 **AI Advisory Coil** — evolving guidance system  
+- 🪐 **Gravitational Consensus** — dynamic, decentralized orchestration
+- 🧬 **Quadrits & QML-ready** — native encoding for the quantum era
+- 🦾 **Progressive Autonomy** — built-in AI upgrades, self-repair, and a “living” network
 
-MIT License (see [LICENSE](LICENSE)).
+**Phase 1 officially launched** – The foundational architecture, threat modeling, and community simulations for VQXAI are now underway.
+
+✔️ Core architecture design  
+✔️ Quantum threat modeling  
+✔️ Call for contributors and first simulations  
+❗ DAO, testnet, and official Rust SDK: coming soon  
+❗ Official ticker: VQXAI ([vqxai.com](https://vqxai.com))
+
+🚀 Current Status: The Visionary MVP
+Valorium X is currently in Phase 1 of its roadmap.
+Our primary objective is the mathematical validation and intensive simulation of our core innovation: the Cryptographic Interlocking Proof (CIP) coupled with the Quadrit data system. The goal of this phase is to produce a technical paper and an open-source simulator that prove the robustness of our consensus mechanism.
+
+🚀 Where to Start? (Key Documents)  
+To understand the depth of Valorium X, we invite you to start with these foundational documents:
+
+🏛️ Read our Grand Vision Document (Complete Vision) – the most comprehensive explanation of our approach.  
+📖 Read the Full Whitepaper (French Version)
+# valoriumx

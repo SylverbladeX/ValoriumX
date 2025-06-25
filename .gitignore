@@ -1,5 +1,56 @@
-__pycache__/
-*.pyc
+# ===========================================
+# Node / JS / Python dev tools
+# ===========================================
+node_modules/
 .env
 *.log
+*.pyc
+__pycache__/
+
+# ===========================================
+# Fichiers système et temporaires (OS & éditeurs)
+# ===========================================
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux / Vim / autres éditeurs
+*.swp
+*~
+# VSCode & JetBrains
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===========================================
+# Fichiers de log et temporaires
+# ===========================================
+logs/
+tmp/
+temp/
+
+# ===========================================
+# Fichiers de build et de dépendances
+# (décommente si utilisé)
+# dist/
+# build/
+# target/
+
+# ===========================================
+# Python spécifiques
+# ===========================================
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ===========================================
+# Autres fichiers spécifiques à votre environnement
+# ===========================================
