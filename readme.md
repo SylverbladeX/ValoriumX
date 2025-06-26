@@ -10,13 +10,23 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Core-Protocol-brightgreen?style=flat-square" alt="Core Protocol Badge">
+</p>
+
+<p align="center">
+  <strong>Core Implementation:</strong> This repository contains the <b>ValoriumX Core</b> — the reference implementation of the L1 blockchain protocol, powered by <b>VIC (Valorium Incentivized Consensus)</b>.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-blue" alt="Project Status">
   <img src="https://img.shields.io/badge/Phase%201-Launched-brightgreen" alt="Phase 1 Launched">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
   <br>
   <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/README_FR.md">🇫🇷 Lire ce document en français</a>
+</p>
 
+<p align="center">
   <strong>The Bio-Inspired, Quantum-Ready Blockchain for Progressive Autonomy and Ultimate Digital Trust.</strong>
   <br />
   <em>We are not building another chain. We are seeding a new digital organism.</em>
@@ -80,3 +90,4 @@ To understand the depth of Valorium X, we invite you to start with these foundat
 📖 Read the Full Whitepaper (French Version)
 # valoriumx
 >>>>>>> 6456663973195933802c5f5b0dccca6a42742a49
+<p align="center"><sub>🚀 Powered by dreams and caffeine.</sub></p>
