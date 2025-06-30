@@ -163,30 +163,30 @@ Découvre comment tout s’imbrique.
 🧩 [Voir le dépôt GitHub](https://github.com/SylverbladeX/ValoriumX)  
 💬 Ouvre une Issue et lance la discussion !
 
-## 🔗 Liens officiels & Contacts
+## 🔗 Official Links & Contacts
 
 ### 🌐 Sites officiels  
-- 🏛️ valoriumx.org – Site principal  
-- 🧭 valoriumx.com – Portail alternatif  
-- 🎯 VQXAI.com – Branding & Ticker
+- 🏛️ **Website**: [valoriumx.org](https://valoriumx.org) – Site principal  
+- 🧭 **Website**: [valoriumx.com](https://valoriumx.com) – Portail alternatif  
+- 🎯 **Ticker Website**: [VQXAI.com](https://vqxai.com) – Branding & Ticker
 
 ### 📚 Documentation & Infrastructure  
-- 🧠 govern.valoriumx.org – DAO Governance Portal  
-- 🛡️ security.valoriumx.org – Bug Bounty Program  
-- 📘 ValoriumX GitHub Wiki
+- 🧠 **DAO Governance Portal**: [govern.valoriumx.org](#)  
+- 🛡️ **Bug Bounty Program**: [security.valoriumx.org](#)  
+- 📘 **Docs & Wiki**: [ValoriumX GitHub Wiki](https://github.com/SylverbladeX/ValoriumX/wiki)
 
 ### 💻 Développement  
-- 🧬 GitHub – valoriumx
+- 🧬 **GitHub**: [github.com/valoriumx](https://github.com/valoriumx)
 
-### 🧑‍🤝‍🧑 Communauté & Réseaux  
-- 💬 Discord  
-- 📢 Telegram  
-- 🐦 Twitter/X – @ValoriumX  
-- 📘 Facebook – @ValoriumX  
-- 📷 Instagram – @ValoriumX  
-- 📺 YouTube – @ValoriumX
+### 🧑‍🤝‍🧑 Communauté & Réseaux sociaux  
+- 💬 **Discord**: [discord.gg/valoriumx](https://discord.gg/valoriumx)  
+- 📢 **Telegram**: [t.me/valoriumx](https://t.me/valoriumx)  
+- 🐦 **Twitter/X**: [@ValoriumX](https://twitter.com/ValoriumX)  
+- 📘 **Facebook**: [@ValoriumX](https://www.facebook.com/valoriumx1)  
+- 📷 **Instagram**: [@ValoriumX](https://www.instagram.com/valoriumx/)  
+- 📺 **YouTube**: [@ValoriumX](https://www.youtube.com/@valoriumx)
 
-> ✅ Pour toute communication officielle, veuillez utiliser uniquement les références ci-dessus.
+> ✅ Pour toute communication officielle, veuillez utiliser uniquement les liens ci-dessus.
 
 
 ---
@@ -194,13 +194,6 @@ Découvre comment tout s’imbrique.
 **© 2025 SylverBlade. Tous droits réservés.**
 
 Veuillez consulter notre [**Guide de Contribution**](https://github.com/SylverbladeX/ValoriumX/blob/main/CONTRIBUTING.md) pour plus de détails.
-
-## Rejoignez la Communauté
-
-La quête a commencé. Suivez la vision.
-* **[🐦 Twitter](https://twitter.com/ValoriumX)**
-* **[💬 Discord](https://discord.gg/your-invite-code)**
-* **[🌐 Site Web](https://vqxai.com)**
 
 ## Licence
 
