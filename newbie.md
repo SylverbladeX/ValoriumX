@@ -55,10 +55,31 @@ What if this time, you were early?
 
 ## 🗺️ Where to Begin
 
-- 💬 Join our [Discord Community](https://discord.gg/valoriumx)
-- 📜 Read the [Whitepaper](https://github.com/SylverbladeX/ValoriumX/wiki/Whitepaper)
-- 🧪 Dive into the [GitHub Repository](https://github.com/SylverbladeX/ValoriumX)
-- 🧠 Explore the [Technical Wiki](https://github.com/SylverbladeX/ValoriumX/wiki)
+## 🔗 Official Links & Contacts
+
+### 🌐 Websites  
+- 🏛️ **Website**: [valoriumx.org](https://valoriumx.org) – Main portal  
+- 🧭 **Website**: [valoriumx.com](https://valoriumx.com) – Alternate access  
+- 🎯 **Ticker Website**: [VQXAI.com](https://vqxai.com) – Branding & Ticker
+
+### 📚 Documentation & Infrastructure  
+- 🧠 **DAO Governance Portal**: [govern.valoriumx.org](#)  
+- 🛡️ **Bug Bounty Program**: [security.valoriumx.org](#)  
+- 📘 **Docs & Wiki**: [GitHub Wiki](https://github.com/SylverbladeX/ValoriumX/wiki)
+
+### 💻 Development  
+- 🧬 **GitHub**: [github.com/valoriumx](https://github.com/valoriumx)
+
+### 🧑‍🤝‍🧑 Community & Social  
+- 💬 **Discord**: [discord.gg/valoriumx](https://discord.gg/valoriumx)  
+- 📢 **Telegram**: [t.me/valoriumx](https://t.me/valoriumx)  
+- 🐦 **Twitter/X**: [@ValoriumX](https://twitter.com/ValoriumX)  
+- 📘 **Facebook**: [@ValoriumX](https://www.facebook.com/valoriumx1)  
+- 📷 **Instagram**: [@ValoriumX](https://www.instagram.com/valoriumx/)  
+- 📺 **YouTube**: [@ValoriumX](https://www.youtube.com/@valoriumx)
+
+> ✅ For official communication, always refer to the links above.
+
 
 ---
 
