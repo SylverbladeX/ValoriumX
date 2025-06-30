@@ -163,13 +163,31 @@ Découvre comment tout s’imbrique.
 🧩 [Voir le dépôt GitHub](https://github.com/SylverbladeX/ValoriumX)  
 💬 Ouvre une Issue et lance la discussion !
 
-🌍 Rejoins la communauté
+## 🔗 Liens officiels & Contacts
 
-- 🐦 [Twitter](https://twitter.com/ValoriumX)  
-- 📺 [YouTube](https://youtube.com/ValoriumX)
-- 💬 [Discord](https://discord.gg/QVPKBSWs)
-- 🌐 [Site officiel du projet (vqxai.com)](https://vqxai.com) — Ticker officiel Valorium X  
-- 👤 [Architecte du projet : sylverblade.com](https://sylverblade.com)
+### 🌐 Sites officiels  
+- 🏛️ valoriumx.org – Site principal  
+- 🧭 valoriumx.com – Portail alternatif  
+- 🎯 VQXAI.com – Branding & Ticker
+
+### 📚 Documentation & Infrastructure  
+- 🧠 govern.valoriumx.org – DAO Governance Portal  
+- 🛡️ security.valoriumx.org – Bug Bounty Program  
+- 📘 ValoriumX GitHub Wiki
+
+### 💻 Développement  
+- 🧬 GitHub – valoriumx
+
+### 🧑‍🤝‍🧑 Communauté & Réseaux  
+- 💬 Discord  
+- 📢 Telegram  
+- 🐦 Twitter/X – @ValoriumX  
+- 📘 Facebook – @ValoriumX  
+- 📷 Instagram – @ValoriumX  
+- 📺 YouTube – @ValoriumX
+
+> ✅ Pour toute communication officielle, veuillez utiliser uniquement les références ci-dessus.
+
 
 ---
 
