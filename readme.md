@@ -46,7 +46,11 @@
 >
 > *– Sylver Blade*
 
-**Valorium X** is not just an upgrade of existing technologies: it's a **fundamental reinvention** of blockchain. Inspired by the **resilience of DNA** and **quantum principles**, our protocol is designed for the age of **artificial intelligence and quantum computing**.
+**Valorium X** is not just an upgrade of existing technologies: it's a **fundamental reinvention** of blockchain. Inspired by the **resilience of DNA** and **quantum principles**, our protocol is designed for the age of **artificial intelligence and quantum computing**, and fair by default.  
+
+This repository contains the **reference implementation** of the protocol, powered by the **VIC (Valorium Incentivized Consensus)** mechanism.
+
+- **No VC allocations, no hidden pre-sale:** All tokens are distributed via public, transparent mechanisms.
 
 🎯 Our goal: to build a decentralized, autonomous, and self-healing blockchain infrastructure that is:
 - Inherently secure 🛡️  
@@ -88,6 +92,36 @@ To understand the depth of Valorium X, we invite you to start with these foundat
 
 🏛️ Read our Grand Vision Document (Complete Vision) – the most comprehensive explanation of our approach.  
 📖 Read the Full Whitepaper (French Version)
+
+---
+
+## 🔗 Official Links & Contacts
+
+### 🌐 Websites  
+- 🏛️ **Website**: [valoriumx.org](https://valoriumx.org) – Main portal  
+- 🧭 **Website**: [valoriumx.com](https://valoriumx.com) – Alternate access  
+- 🎯 **Ticker Website**: [VQXAI.com](https://vqxai.com) – Branding & Ticker
+
+### 📚 Documentation & Infrastructure  
+- 🧠 **DAO Governance Portal**: [govern.valoriumx.org](#)  
+- 🛡️ **Bug Bounty Program**: [security.valoriumx.org](#)  
+- 📘 **Docs & Wiki**: [GitHub Wiki](https://github.com/SylverbladeX/ValoriumX/wiki)
+
+### 💻 Development  
+- 🧬 **GitHub**: [github.com/valoriumx](https://github.com/valoriumx)
+
+### 🧑‍🤝‍🧑 Community & Social  
+- 💬 **Discord**: [discord.gg/valoriumx](https://discord.gg/valoriumx)  
+- 📢 **Telegram**: [t.me/valoriumx](https://t.me/valoriumx)  
+- 🐦 **Twitter/X**: [@ValoriumX](https://twitter.com/ValoriumX)  
+- 📘 **Facebook**: [@ValoriumX](https://www.facebook.com/valoriumx1)  
+- 📷 **Instagram**: [@ValoriumX](https://www.instagram.com/valoriumx/)  
+- 📺 **YouTube**: [@ValoriumX](https://www.youtube.com/@valoriumx)
+
+> ✅ For official communication, always refer to the links above.
+
+---
+
 # valoriumx
 >>>>>>> 6456663973195933802c5f5b0dccca6a42742a49
 <p align="center"><sub>🚀 Powered by dreams and caffeine.</sub></p>
