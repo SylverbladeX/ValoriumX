@@ -90,8 +90,8 @@ Our primary objective is the mathematical validation and intensive simulation of
 🚀 Where to Start? (Key Documents)  
 To understand the depth of Valorium X, we invite you to start with these foundational documents:
 
-🏛️ Read our Grand Vision Document (Complete Vision) – the most comprehensive explanation of our approach.  
-📖 Read the Full Whitepaper (French Version)
+🏛️ Read our WIKI – the most comprehensive explanation of our approach.  
+📖 Read the Full Whitepaper
 
 ---
 
