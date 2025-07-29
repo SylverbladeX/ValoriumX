@@ -1,23 +1,39 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SylverbladeX/ValoriumX/main/pictures/vlrx-logo-min.jpg" alt="Logo Valorium X" width="600"/>
-</p>
-
-<h1 align="center">Valorium X</h1>
-<p align="center">
-  <strong>La blockchain bio-inspirée à autonomie progressive</strong><br />
-  <em>La naissance d’une nouvelle ère de confiance numérique</em>
-</p>
+<h1 align="center">Valorium X ($VQXAI)</h1>
+<p align="center"><b>La blockchain bio-inspirée à autonomie progressive</b><br>
+<em>L’aube d’une nouvelle ère de confiance numérique</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-En%20Développement-blue" alt="Statut du projet">
-  <img src="https://img.shields.io/badge/Phase%201-Lancée-brightgreen" alt="Phase 1 Lancée">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="Licence">
-  <img src="https://img.shields.io/badge/Contributions-Bienvenue-brightgreen" alt="Contributions">
-  <br>
-  <a href="https://github.com/SylverbladeX/ValoriumX/blob/main/readme.md">📘 Read this document in English</a>
+    <img src="https://img.shields.io/badge/Core-grey?style=flat-square" alt="Core"/>
+    <img src="https://img.shields.io/badge/Protocole-green?style=flat-square" alt="Protocole"/>
+</p>
+
+<p align="center"><b>Implémentation principale :</b> Ce dépôt contient <b>ValoriumX Core</b> — l’implémentation de référence du protocole blockchain L1, propulsée par <b>VIC (Valorium Incentivized Consensus)</b>.</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Statut-En%20développement-2b6cb0?style=flat-square" alt="Statut"/>
+    <img src="https://img.shields.io/badge/Phase%201-Lancée-brightgreen?style=flat-square" alt="Phase 1"/>
+    <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen?style=flat-square" alt="Licence"/>
+    <img src="https://img.shields.io/badge/Contributions-Bienvenue-brightgreen?style=flat-square" alt="Contributions"/><br>
+    <a href="https://github.com/SylverbladeX/ValoriumX/edit/main/readme.md"><span style="color:#2b6cb0;">EN Read this document in english</span></a>
+</p>
+
+<br/>
+
+<p align="center"><b>La blockchain bio-inspirée, prête pour l’ère quantique, pour une autonomie progressive et une confiance numérique ultime.</b><br>
+<em>Nous ne construisons pas une chaîne de plus. Nous semons un nouvel organisme digital.</em></p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Statut-Phase%201%20:%20Consensus%20prouvé-2b6cb0?style=flat-square" alt="Statut"/>
+    <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen?style=flat-square" alt="Licence"/>
+    <img src="https://img.shields.io/badge/Contributions-Bienvenue-brightgreen?style=flat-square" alt="Contributions"/>
 </p>
 
 ---
+
+<blockquote>
+« L’attention n’est pas sur l’architecte, mais sur l’architecture. »<br>
+<em>– Sylver Blade</em>
+</blockquote>
 
 ## 🧬 À propos de Valorium X
 
