@@ -117,6 +117,7 @@ To understand the depth of Valorium X, we invite you to start with these foundat
 - 📘 **Facebook**: [@ValoriumX](https://www.facebook.com/valoriumx1)  
 - 📷 **Instagram**: [@ValoriumX](https://www.instagram.com/valoriumx/)  
 - 📺 **YouTube**: [@ValoriumX](https://www.youtube.com/@valoriumx)
+- 📱 **TikTok**: [@valoriumxofficial](https://www.tiktok.com/@valoriumxofficial)
 
 > ✅ For official communication, always refer to the links above.
 
