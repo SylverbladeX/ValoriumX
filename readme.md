@@ -42,10 +42,10 @@ This preserves scientific credibility **without exposing exploitable mechanisms*
 ✨ We keep the public layer **clear**, and the security layer **sovereign**.
 
 - 🧬 **Double Helix Ledger** — DNA-inspired structure model  
-- 🔗 **CIP (Cryptographic Interlocking Proof)** — interlocked verification layer (design target: tamper-resistance)  
+- 🔗 **Cryptographic Interlocking Proof (CIP)** — interlocking proof layer (tamper-resistance target)
 - 🧠 **AI Advisory Coil** — guidance & monitoring (progressive roadmap)  
 - 🪐 **Gravitational Consensus** — dynamic orchestration (research track)  
-- ⚛️ **Quantum-Ready** — post-quantum roadmap + hybrid research  
+- ⚛️ **Quantum-ready** -(post-quantum roadmap)
 - 🦾 **Progressive Autonomy** — self-repair and gradual automation over time
 
 ---
@@ -85,25 +85,37 @@ Official ticker page: **https://vqxai.com/**
 
 ---
 
-## Official Links & Contact
-🌐 Websites  
-- Main portal: https://valoriumx.org/  
-- Alternate access: https://valoriumx.com/  
-- Ticker page: https://vqxai.com/
+## Official Links & Contacts
 
-🧩 Development  
-- GitHub (this repo): https://github.com/SylverbladeX/ValoriumX
+### Websites
+- Website: https://valoriumx.org — Main portal
+- Website: https://valoriumx.com — Alternate access
+- Ticker Website: https://vqxai.com — Branding & Ticker
 
-🛡️ Security  
-- Please use **SECURITY.md** for responsible disclosure.
+### Documentation
+- Docs & Wiki: https://github.com/SylverbladeX/ValoriumX/wiki
+- Whitepapers: /whitepapers
+- Newbie Guide: /newbie.md
 
-💬 Community & Social  
-- Discord: discord.gg/valoriumx  
-- Telegram: t.me/valoriumx  
-- Twitter/X: @ValoriumX  
-- Facebook / Instagram / YouTube / TikTok: @ValoriumX
+### Security & Responsible Disclosure
+- Security contact: security@valoriumx.org
+- Public bug bounty portal: coming soon
+- Note: security-critical implementation details may be disclosed via controlled review (vetted auditors/partners) and signed releases.
 
-✅ For official communication, always refer to the links above.
+### Development
+- This repository: https://github.com/SylverbladeX/ValoriumX
+- How to contribute: /CONTRIBUTING.md
+
+### Community & Social
+- Discord: https://discord.gg/valoriumx
+- Telegram: https://t.me/valoriumx
+- Twitter/X: https://x.com/ValoriumX
+- Facebook: https://www.facebook.com/valoriumx1
+- Instagram: https://www.instagram.com/valoriumx/
+- YouTube: https://www.youtube.com/@valoriumx
+- TikTok: https://www.tiktok.com/@valoriumxofficial
+
+> ✅ For official communication, always refer to the links above.
 
 ---
 
